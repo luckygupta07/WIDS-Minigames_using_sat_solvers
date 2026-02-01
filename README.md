@@ -1,4 +1,4 @@
-# WIDS-Minigames_using_sat_solversz
+# WIDS-Minigames_using_sat_solvers
 # Sudoku Solver using SAT (PySAT)
 
 ## Overview
